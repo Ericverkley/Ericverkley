@@ -1,3 +1,45 @@
 <root>
-<test>hi</test>
-</root>
+<landscaping business>
+	<mowers>
+		<mower>
+			<mowerbrand>Exmark Zeroturn</mowerbrand>
+			<color>Red</color>
+			<deckzize>60in</deckzize>
+			<gastype>E85</gastype>
+		</mower>
+	<mowers>
+		<mowerbrand>Scag Zeroturn</mowerbrand>
+		<color>orange</color>
+		<decksize>36in</decksize>
+		<gastype>E85</gastype>
+	<mowers>
+		<mowerbrand>Ferris Standon Zeroturn</mowerbrand>
+		<color>red</color>
+		<decksize>61in</decksize>
+		<gastype>E85</gastype>
+	<weedeaters>
+		<weedeaterbrand>Stihl XR91</weedeaterbrand>
+		<color>orange</color>
+		<length>4ft</length>
+		<gastype>2cycle engine oil</gastype>
+	<trucks>
+		<brand>Ford</brand>
+		<make>F250</make>
+		<color>White</color>
+		<gastype>E85</gastype>
+	<trucks>
+		<brand>Ford</brand>
+		<make>F350</make>
+		<color>White</make>
+		<gastype>E85</gastype>
+</landscaping business>
+		
+<employees>	
+	<employee>	
+		<name>Austin</name>	<gender="male">
+		<lastname>Campton</lastname>
+		<age>22</age>
+		<title>foreman</title>	<!-- Top paid worker -->
+		<desciption>He is a fat and lazy man who is kinda gay</desciption>
+		<salary>$45000</salary>
+</employees>
